@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/hugo/src/github.com/rubocop/rubocop
+GIT
+  remote: https://github.com/Korri/rubocop
+  revision: a3c09b5c1d89cd33d80ac8443a339df1cae1a4bb
+  branch: ignore-last-element
   specs:
     rubocop (1.30.0)
       parallel (~> 1.10)
