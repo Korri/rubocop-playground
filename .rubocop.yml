@@ -1,0 +1,38 @@
+inherit_from: .style-guide.yml
+Layout/FirstArgumentIndentation:
+  Enabled: true
+  EnforcedStyle: consistent
+
+
+Layout/MultilineMethodArgumentLineBreaks:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+Layout/MultilineArrayLineBreaks:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+Layout/MultilineHashKeyLineBreaks:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+Layout/MultilineMethodParameterLineBreaks:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+
+Layout/FirstMethodArgumentLineBreak:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+Layout/FirstArrayElementLineBreak:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+Layout/FirstHashElementLineBreak:
+  Enabled: true
+  LastElementCanBeMultiline: true
+
+Layout/FirstMethodParameterLineBreak:
+  Enabled: true
+  LastElementCanBeMultiline: true
